@@ -22,8 +22,6 @@ We're a student-led community focused on learning, building, and exploring techn
 | [Workshop Resources](#) | Tutorials, exercises, and learning materials. |
 | [Community Projects](#) | Projects built by our members. |
 
-*Replace the links above as your repositories become available.*
-
 ## Get Involved
 
 Whether you're a beginner or an experienced developer, there's room to learn and contribute.
@@ -38,10 +36,10 @@ Whether you're a beginner or an experienced developer, there's room to learn and
 - **University:** University of San Carlos, Cebu City
 - **Community:** Microsoft Student Community
 - **Email:** mccsancarlos@outlook.ph
-- **Socials:** 
-https://www.facebook.com/profile.php?id=61594018483022
-https://www.instagram.com/msc.techminds_cebu
-https://www.youtube.com/@MicrosoftStudentCommunity-SC
+- **Socials:**
+-   https://www.facebook.com/profile.php?id=61594018483022
+-   https://www.instagram.com/msc.techminds_cebu
+-   https://www.youtube.com/@MicrosoftStudentCommunity-SC
 
 ---
 
